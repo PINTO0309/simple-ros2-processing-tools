@@ -14,6 +14,7 @@ classifiers = [
 requires-python = ">=3.10"
 dependencies = [
     "rosimg2mp4",
+    "rosdepth2mp4",
     "ros2bagcut",
 ]
 dynamic = ["version"]
