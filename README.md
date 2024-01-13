@@ -1,6 +1,8 @@
 # simple-ros2-processing-tools
 A set of simple tools for ROS2 of my own making.
 
+[![Downloads](https://static.pepy.tech/personalized-badge/simple-ros2-processing-tools?period=total&units=none&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/simple-ros2-processing-tools)
+
 ```
 pip install -U simple-ros2-processing-tools
 ```
