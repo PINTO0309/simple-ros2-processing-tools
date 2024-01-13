@@ -1,6 +1,10 @@
 # simple-ros2-processing-tools
 A set of simple tools for ROS2 of my own making.
 
+```
+pip install -U simple-ros2-processing-tools
+```
+
 |No.|Tool Name|Tags|Summary|
 |:-:|:-:|:-:|:-|
 |1|**[rosimg2mp4](https://github.com/PINTO0309/rosimg2mp4)**|[![PyPI](https://img.shields.io/pypi/v/rosimg2mp4?color=2BAF2B)](https://pypi.org/project/rosimg2mp4/)[![rosimg2mp4](https://img.shields.io/github/stars/PINTO0309/rosimg2mp4.svg?style=social)](https://github.com/PINTO0309/rosimg2mp4)|A simple tool to record ROS2 Image topics to MP4.|
